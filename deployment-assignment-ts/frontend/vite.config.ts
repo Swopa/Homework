@@ -7,5 +7,5 @@ export default defineConfig({
   server: {
     host: '0.0.0.0', // Important for EC2
     port: 5174,      // As per assignment example
-  }
+  } 
 })
